@@ -39,3 +39,10 @@ address {
     margin: 0;
     color: #0f0f0f;
 }
+.row-content h2 {
+    margin-bottom: 30px;
+}
+
+.row-content p {
+    margin: 20px 0;
+}
