@@ -7,8 +7,12 @@
 body {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
 }
-
+.navbar-dark{
+    background-color: #521da8;
+}
 .row-header {
     margin: 0 auto;
     padding: 0;
